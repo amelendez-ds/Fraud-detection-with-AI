@@ -26,3 +26,4 @@ The more advance algorithm is an **Auto-Encoder**, a type of Neural Network that
 
 ## Notes
 This project is succeptible of several changes and algorithm improvement. Its purpose was self challenge with very specific data that had to do with **Finance Technology**, hence getting some hands-on real world **banking problems**. The more I improve in finance knoledge and programming abilities, the more I will go on improving these projects. 
+- The `model.h5` file is the saved Auto-Encoder ready for use for further testing. 
