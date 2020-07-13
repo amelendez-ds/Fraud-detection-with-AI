@@ -5,7 +5,7 @@ AI Banking - Detecting fraud transactions with different Machine Learning Algori
 This is an independent project on *Binary Classification* with **Machine Learning** and **Deep Learning** Using the [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud) dataset, from Kaggle I studied three different ways of implementing an automatised detection of illegal transactions. This was a very good practice of **data preprocessing** of **highly unbalanced** datasets, **Exploratory Data Analysis**, **visualizations**, **Machine Learning algorithm tuning** and compared **performance evaluation**. 
 
 ## Data
-As stated above, the data can be downloaded from [Kaggle] (https://www.kaggle.com/mlg-ulb/creditcardfraud). It contains transactions made by credit cards in September 2013, during two days, by european cardholders.
+As stated above, the data can be downloaded from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud). It contains transactions made by credit cards in September 2013, during two days, by european cardholders.
 
 - 284,807 transactions, 492 frauds (0.172%)
 
