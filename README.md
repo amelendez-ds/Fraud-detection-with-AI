@@ -1,9 +1,6 @@
 # Fraud-detection-with-AI
 AI Banking - Detecting fraud transactions with different Machine Learning Algorithms
 
-# Frogs & Trucks
-Binary Classification with Machine Learning Algorithms
-
 ## Description
 This is an independent project on *Binary Classification* with **Machine Learning** and **Deep Learning** Using the [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud) dataset, from Kaggle I studied three different ways of implementing an automatised detection of illegal transactions. This was a very good practice of **data preprocessing** of **highly unbalanced** datasets, **Exploratory Data Analysis**, **visualizations**, **Machine Learning algorithm tuning** and compared **performance evaluation**. 
 
@@ -18,4 +15,14 @@ As stated above, the data can be downloaded from [Kaggle] (https://www.kaggle.co
 ## Models
 The first two models are Machine Learning are classical **Random Forest** and **Linear Regression** for classification. Both of them have their hyperparameters tuned via Grid Search Cross-Validation. 
 
-The more advance algorithm is an Auto-Encoder, a type of Neural Network that uses reconstructed representations of the data after compressing them (encoding-decoding process). The idea behind this approach was that we would train the architecture on Non-Fraud entries, and once the encoder-decoder was trained, try to classify it with its error testing it with the complete dataset. It delivers some good results. 
+The more advance algorithm is an **Auto-Encoder**, a type of Neural Network that uses reconstructed representations of the data after compressing them (encoding-decoding process). The idea behind this approach was that we would train the architecture on Non-Fraud entries, and once the encoder-decoder was trained, try to classify it with its error testing it with the complete dataset. It delivers best results of all algorithms. 
+
+## Project Structure
+1. Fetching and Cleaning Transactions Dataset
+2. Exploratory Data Analysis
+3. Data Preprocessing
+4. Building the Models
+5. Performance Reports and Conclusions
+
+## Notes
+This project is succeptible of several changes and algorithm improvement. Its purpose was self challenge with very specific data that had to do with **Finance Technology**, hence getting some hands-on real world banking problems. 
