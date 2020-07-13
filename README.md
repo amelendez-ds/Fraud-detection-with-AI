@@ -1,4 +1,4 @@
-# Fraud-detection-with-AI
+# Fraud Transaction Detection with Artificial Intelligence
 AI Banking - Detecting fraud transactions with different Machine Learning Algorithms
 
 ## Description
